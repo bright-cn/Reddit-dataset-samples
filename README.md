@@ -1,4 +1,4 @@
-# Reddit-dataset-samples
+# Reddit 数据集样本
 
 <h2>包含 1001 条 Reddit 帖子的样本数据集</h2>
 
